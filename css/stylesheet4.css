@@ -1,0 +1,153 @@
+H3 {
+    color:#f2f2f2;
+    font-family: termina, sans-serif;
+    font-weight: 800;
+}
+
+h4 {
+    font-family: termina, sans-serif;
+    font-weight: 600;
+
+}
+
+.brown {
+    background-color: #95847c;
+}
+
+.container-fluid {
+    background-color: #292929;
+}
+
+.bg-dark {
+    background-color: #292929 !important;
+}
+
+.navbar-text {
+    font-family: termina;
+    font-weight: 800;
+    color: whitesmoke !important;
+    font-size: 1.2rem;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler-icon {
+    color: white !important;
+}
+
+.section1 {
+background-color: #95847c;
+margin: 0 auto;
+height: 45vh;
+padding-left: 0px;
+padding-right: 0px;
+margin-top: 20px;
+}
+
+.section11 {
+    margin: 0 auto;
+    height: 45vh;
+}
+
+.section11 img {
+    bottom: -12px;
+    width: 98%;
+}
+
+.section2 {
+    padding-top: 10px;
+    height: auto;
+}
+
+.titulo {
+    color:#d5d5d5;
+    font-family: termina, sans-serif;
+    font-weight: 800;
+    font-size: 1.7em;
+    padding-top: 1em;
+    line-height: 130%;
+}
+
+.yellow {
+    color: #ffb708;
+    background-color: none;
+}
+
+.data {
+    color:#d5d5d5;
+    font-family: termina, sans-serif;
+    font-weight: 600;
+    font-size: 1.1em;
+    padding-top: 0.2em;
+}
+
+.button1 {
+    margin-top: 10px;
+    border-radius: 0;
+    border: none;
+    color: #f2f2f2;
+    border: solid 1px #f2f2f2;
+}
+
+video {
+    margin:10px auto;
+}
+
+blockquote {
+    margin-top: 10px;
+    color: #d5d5d5;
+    width: 90%;   
+}
+
+.row3 {
+    margin-top: 28px;
+}
+
+.card {
+    margin: 20px 0;
+}
+
+.col-button {
+    padding-bottom: 2.3em;
+}
+
+.button2 {
+    
+    border-radius: 0;
+    border: none;
+    color: #f2f2f2;
+    border: solid 1px #f2f2f2;
+}
+
+.news-title {
+    color: #292929;
+    margin-top: 20px;
+}
+
+.btn-info {
+    background-color: #ffb708 !important;
+    border: none !important;
+}
+
+.programação-title {
+    margin-top: 30px;
+
+}
+
+.card-title{
+    color: #292929;
+}
+
+.card {
+    border: 1px solid black;
+}
+
+.btn-yellow {
+    background-color: #ffb708;
+}
+
+.page-footer p, .page-footer a, .page-footer h6, .page-footer i, .footer-copyright {
+    color: #292929;
+}
